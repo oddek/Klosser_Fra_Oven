@@ -27,7 +27,9 @@ int main()
 
 		sf::RenderWindow App(sf::VideoMode(s0->get_width(), s0->get_height()), "Klosser fra oven");
 		App.setMouseCursorVisible(false);
-
+		sf::Image icon;
+		icon.loadFromFile("img/icon.png");
+		App.setIcon(icon.getSize().x, icon.getSize().y, icon.getPixelsPtr());
 
 		while (screen >= 0)
 		{
