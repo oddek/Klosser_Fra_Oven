@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Klosser_Fra_Oven", "Klosser_Fra_Oven\Klosser_Fra_Oven.vcxproj", "{7575777F-2064-41DC-B2B0-337603CC205C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Debug|x64.ActiveCfg = Debug|x64
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Debug|x64.Build.0 = Debug|x64
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Debug|x86.ActiveCfg = Debug|Win32
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Debug|x86.Build.0 = Debug|Win32
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Release|x64.ActiveCfg = Release|x64
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Release|x64.Build.0 = Release|x64
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Release|x86.ActiveCfg = Release|Win32
+		{7575777F-2064-41DC-B2B0-337603CC205C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239CD626-5A8A-4582-A876-DA65C03E6E79}
+	EndGlobalSection
+EndGlobal
