@@ -1,6 +1,6 @@
 # Klosser fra oven
 
-Ikke nødvendigvis en veldig original ide, men lagd i læringsøyemed. 
+Ikke nødvendigvis en veldig original ide, lagd i læringsøyemed. 
 
 Kent Odde, June 19
 
