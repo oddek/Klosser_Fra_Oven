@@ -128,8 +128,8 @@ Screen_1::Screen_1(int _level)
 
 Screen_1::~Screen_1()
 {
-	for (auto i : texts) delete i;
-	for (auto i : shapes) delete i;
+	//for (auto i : texts) delete i;
+	//for (auto i : shapes) delete i;
 }
 
 

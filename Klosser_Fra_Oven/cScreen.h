@@ -9,7 +9,7 @@ class cScreen
 public:
 
 	cScreen();
-	//virtual ~cScreen() = 0;
+	virtual ~cScreen() = 0;
 	virtual int Run(sf::RenderWindow &App) = 0;
 	
 	int get_width() { return width; }
