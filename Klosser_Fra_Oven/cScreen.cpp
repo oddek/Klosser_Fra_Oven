@@ -27,7 +27,7 @@ cScreen::cScreen(void)
 	load_highscores();
 }
 
-cScreen::~cScreen(){}
+//cScreen::~cScreen(){}
 
 void cScreen::load_highscores()
 {
