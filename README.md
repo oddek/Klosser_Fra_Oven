@@ -2,6 +2,9 @@
 
 Ikke nødvendigvis en veldig original ide, lagd i læringsøyemed. 
 
+[Executable](http://odde.ml)
+
+
 Kent Odde, June 19
 
 
